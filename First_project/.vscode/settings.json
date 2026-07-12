@@ -1,0 +1,27 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.defaultInterpreterPath": "d:\\uncategorized\\COMP_VISION\\anaconda\\python.exe",
+    "notebook.formatOnSave": true,
+    "notebook.codeActionsOnSave": {
+        "source.organizeImports": "explicit",
+        "source.fixAll": "explicit"
+    },
+    "[python]": {
+         "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports.ruff": "explicit",
+            "source.fixAll.ruff": "explicit"
+        }
+    },
+     "notebook.formatOnSave.enabled": true,
+      "ruff.format.preview": true,
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  }
+     
+   
+  
+}
